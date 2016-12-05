@@ -1,2 +1,2 @@
 # test_repo
-training demo
+training demo..
